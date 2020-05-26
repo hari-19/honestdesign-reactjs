@@ -4,27 +4,27 @@ import { Card, Button, Row, Col } from "react-bootstrap";
 export default class customNavbar extends Component {
   products = [
     {
-      title: "Title 1",
+      title: "Lorem ipsum dolor ",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
     },
     {
-      title: "Title 2",
+      title: "Consectetur adipiscing",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
     },
     {
-      title: "Title 3",
+      title: "Integer nec odio",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
     },
     {
-      title: "Title 4",
+      title: "Praesent libero",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
     },
     {
-      title: "Title 5",
+      title: "Sed cursus ante dapibus",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
     },
@@ -57,7 +57,9 @@ export default class customNavbar extends Component {
                     <Card.Body>
                       <Card.Title>{value.title}</Card.Title>
                       <Card.Text>{value.description} </Card.Text>
-                      <Button variant="primary">Learn More</Button>
+                      <Button variant="primary" className="px-5">
+                        Learn More
+                      </Button>
                     </Card.Body>
                   </Card>
                 </Col>
