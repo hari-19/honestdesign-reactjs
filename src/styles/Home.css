@@ -38,3 +38,92 @@
 .card {
   background-color: rgba(227, 226, 223, 0.3);
 }
+
+.statistics {
+  /* background-color: rgba(231, 113, 125, 0.8); */
+  background-color: rgba(68, 41, 141, 0.8);
+  color: white;
+}
+
+.statistics-header {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.statistics-body {
+  font-size: 1.3rem;
+  font-weight: 300;
+  text-align: center;
+}
+
+.statistics-icon {
+  height: 3.5em;
+  color: whites;
+}
+
+.statistics-text {
+  font-size: 4rem;
+  font-weight: 600;
+}
+.statistics-addText {
+  font-size: 2rem;
+  font-weight: 200;
+}
+.statistics-moreText {
+  font-size: 1.5rem;
+  font-weight: 200;
+}
+
+.statistics-item-0 {
+  border-width: 1px;
+  border-color: white;
+  border-right: solid;
+  border-bottom: solid;
+}
+.statistics-item-1 {
+  border-width: 1px;
+  border-color: white;
+  border-right: solid;
+  border-bottom: solid;
+}
+.statistics-item-2 {
+  border-width: 1px;
+  border-color: white;
+  border-bottom: solid;
+}
+.statistics-item-3 {
+  border-width: 1px;
+  border-color: white;
+  border-right: solid;
+}
+.statistics-item-4 {
+  border-width: 1px;
+  border-color: white;
+  border-right: solid;
+}
+.statistics-item-5 {
+  border-width: 1px;
+  border-color: white;
+}
+
+@media (min-width: 0px) and (max-width: 768px) {
+  .statistics-item-0 {
+    border: none;
+  }
+  .statistics-item-1 {
+    border: none;
+  }
+  .statistics-item-2 {
+    border: none;
+  }
+  .statistics-item-3 {
+    border: none;
+  }
+  .statistics-item-4 {
+    border: none;
+  }
+  .statistics-item-5 {
+    border: none;
+  }
+}
