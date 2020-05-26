@@ -154,3 +154,7 @@
   top: 50%;
   transform: translateY(-50%);
 }
+
+.btn-primary {
+  background-color: rgba(68, 49, 141, 1);
+}
