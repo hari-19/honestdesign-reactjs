@@ -25,7 +25,14 @@
   position: relative;
   z-index: 3;
 }
-
+.jumbotron-header {
+  font-size: 3rem;
+  font-weight: 600;
+}
+.jumbotron-text {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
 .marketing-header {
   font-weight: 700;
   font-size: 2rem;
