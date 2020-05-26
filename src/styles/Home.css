@@ -127,3 +127,26 @@
     border: none;
   }
 }
+
+.banner-img {
+  max-height: 30em;
+  max-width: 100%;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.banner-header {
+  font-size: 2rem;
+  font-weight: 600;
+}
+.banner-text {
+  font-size: 1.5rem;
+  font-weight: 200;
+  text-align: justify;
+}
+
+.banner-content {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}

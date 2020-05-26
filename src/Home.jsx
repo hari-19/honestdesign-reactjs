@@ -4,6 +4,7 @@ import Jumbotron from "./Home/Jumbotron";
 import Footer from "./Home/Footer";
 import Products from "./Home/Products";
 import Statistics from "./Home/Statistics";
+import Banner from "./Home/Banner";
 
 export default class Home extends Component {
   render() {
@@ -13,6 +14,7 @@ export default class Home extends Component {
         <Jumbotron />
         <Products />
         <Statistics />
+        <Banner />
         <Footer />
       </div>
     );
