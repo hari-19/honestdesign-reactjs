@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/honestdesign-reactjs/static/css/main.fe184cb2.chunk.css",
+    "main.js": "/honestdesign-reactjs/static/js/main.fc57da04.chunk.js",
+    "main.js.map": "/honestdesign-reactjs/static/js/main.fc57da04.chunk.js.map",
+    "runtime-main.js": "/honestdesign-reactjs/static/js/runtime-main.dbc54506.js",
+    "runtime-main.js.map": "/honestdesign-reactjs/static/js/runtime-main.dbc54506.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/honestdesign-reactjs/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e0508f32.chunk.js": "/honestdesign-reactjs/static/js/2.e0508f32.chunk.js",
+    "static/js/2.e0508f32.chunk.js.map": "/honestdesign-reactjs/static/js/2.e0508f32.chunk.js.map",
+    "index.html": "/honestdesign-reactjs/index.html",
+    "precache-manifest.07f4ce03f3bbcd78706ebe592d97a707.js": "/honestdesign-reactjs/precache-manifest.07f4ce03f3bbcd78706ebe592d97a707.js",
+    "service-worker.js": "/honestdesign-reactjs/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/honestdesign-reactjs/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.fe184cb2.chunk.css.map": "/honestdesign-reactjs/static/css/main.fe184cb2.chunk.css.map",
+    "static/js/2.e0508f32.chunk.js.LICENSE.txt": "/honestdesign-reactjs/static/js/2.e0508f32.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/honestdesign-reactjs/static/media/Graphic-Designing-bg.13688fc6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbc54506.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e0508f32.chunk.js",
+    "static/css/main.fe184cb2.chunk.css",
+    "static/js/main.fc57da04.chunk.js"
+  ]
+}
