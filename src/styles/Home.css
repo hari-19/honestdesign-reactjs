@@ -137,6 +137,10 @@
   .statistics-item-5 {
     border: none;
   }
+
+  .banner-content {
+    text-align: center;
+  }
 }
 
 .banner-img {
