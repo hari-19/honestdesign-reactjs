@@ -1,0 +1,32 @@
+.titleFooter {
+  font-size: 1.5rem;
+}
+
+#quickLinksWrapper ul {
+  list-style-type: none;
+}
+
+.socialIcon img {
+  height: 32px;
+  width: 32px;
+}
+
+#facebook:hover {
+  border-radius: 6px;
+  background-color: #39569c;
+}
+
+#linkedin:hover {
+  border-radius: 6px;
+  background-color: #0072b1;
+}
+
+#twitter:hover {
+  border-radius: 6px;
+  background-color: #26a7de;
+}
+
+#youtube:hover {
+  border-radius: 6px;
+  background-color: #b2071d;
+}
